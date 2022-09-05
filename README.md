@@ -95,6 +95,9 @@ Start the server
 ```
 ## DATABSE
 <p></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://res.cloudinary.com/headhunter/image/upload/v1660400914/MegaK/mysql-logo_egmkfp.jpg" alt="mysql" height="40" width="60" /></a></p>
+<p>If you want use the app you need to create a Database and one table like on the screen: </p>
+
+<a href="https://files.fm/f/yw7v3vh4v"><img src="https://files.fm/thumb_show.php?i=yw7v3vh4v"></a>
 
 
 ## Screenshots 📷
